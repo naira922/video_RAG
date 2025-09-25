@@ -1,0 +1,10 @@
+streamlit
+torch
+transformers
+sentence-transformers
+faiss-cpu
+opencv-python
+Pillow
+scenedetect
+langchain
+langchain-ollama

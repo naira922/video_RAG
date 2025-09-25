@@ -1,0 +1,33 @@
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+env/
+venv/
+ENV/
+*.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Audio / Video (optional - لو مش عايزة ترفعيهم)
+*.mp4
+*.wav
+*.avi
+*.mov
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Logs
+*.log
+
+# VS Code settings
+.vscode/
+
